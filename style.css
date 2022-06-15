@@ -1,0 +1,48 @@
+#body2{
+    background-image:url("zero.jpg");
+    background-size: cover;
+}
+
+h1{
+    font-weight: bolder;
+    font-style: italic;
+    margin-left: 550px;
+    margin-top:170px;
+    color: rgb(28, 13, 243);
+}
+
+#player1{
+    font-size: 20px;
+border-radius: 5px; 
+margin-left: 550px;;
+}
+
+#player2{
+    font-size: 20px;
+border-radius: 5px; 
+margin-left: 550px;;
+}
+
+#btnLogin{
+    margin-left:550px;
+}
+
+.btns{
+    text-decoration-line: underline;
+    font-family:"algerian";
+    font-style: italic;
+    font-weight:900;
+    font-size: 25px;
+margin-top: 30px;   
+color: red;
+background-color: transparent;
+border-color: transparent;
+}
+
+#home{
+    margin-left:80%;
+}
+#aboutBtn{
+    padding-left: 15px;
+}
+
